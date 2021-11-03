@@ -1,6 +1,6 @@
-using GCODE
+using GCode
 using Test
 
-@testset "GCODE.jl" begin
+@testset "GCode.jl" begin
     # Write your tests here.
 end
