@@ -1,4 +1,4 @@
-name = "GCODE"
+name = "GCode"
 uuid = "3fbb2bf1-2a31-46e5-a005-8ad8e6040aa5"
 authors = ["Matt Lawless"]
 version = "0.1.0"
